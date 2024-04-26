@@ -6,7 +6,7 @@ Projeto consiste em um timer, que salva seus ciclos no localstorage, e lista em 
 - Use o comando 'npm install', depois 'npm run dev'
 - Acesse http://localhost:3000/
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 - React + TypeScript
 - Next.js
 - TailwindCSS
@@ -15,7 +15,7 @@ Projeto consiste em um timer, que salva seus ciclos no localstorage, e lista em 
 ![preview](.github/tomato-timer.png)
 
 ## Contato
-
+### Victor Silva Guedes 
 E-mail: sguedes.victor@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/victorsilvaguedes/
