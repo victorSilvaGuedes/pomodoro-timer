@@ -13,3 +13,8 @@ Projeto consiste em um timer, que salva seus ciclos no localstorage, e lista em 
 - Libs: date-fns, zod, react hookform
 
 ![preview](.github/tomato-timer.png)
+
+## Contato
+
+- sguedes.victor@gmail.com
+- https://www.linkedin.com/in/victorsilvaguedes/
