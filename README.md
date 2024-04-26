@@ -16,5 +16,7 @@ Projeto consiste em um timer, que salva seus ciclos no localstorage, e lista em 
 
 ## Contato
 
-- sguedes.victor@gmail.com
-- https://www.linkedin.com/in/victorsilvaguedes/
+E-mail:
+sguedes.victor@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/victorsilvaguedes/
