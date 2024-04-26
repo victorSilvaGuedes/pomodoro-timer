@@ -15,7 +15,7 @@ Projeto consiste em um timer, que salva seus ciclos no localstorage, e lista em 
 ![preview](.github/tomato-timer.png)
 
 ## Contato
-### Victor Silva Guedes 
+Victor Silva Guedes 
 E-mail: sguedes.victor@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/victorsilvaguedes/
